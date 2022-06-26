@@ -1,22 +1,16 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
+# Implementation of Simple Linear Regression Model for Predicting the Marks Scored
 ## AIM:
 To write a program to implement the simple linear regression model for predicting the marks scored.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 ## Algorithm
 1. Import all the necessary librariesand modules.
 2. Upload the .csv file into folder.
 3. Assign the variables to the respective data in the file.
 4. Display the data in a graph using matplotlib.pyplot.
-
 ## Program:
 ```
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Sai Darshan
 RegisterNumber: 212221240047
 import numpy as np
@@ -50,10 +44,7 @@ plt.ylabel("Scores",color='gold')
 plt.show()
 */
 ```
-
 ## Output:
 ![simple linear regression model for predicting the marks scored](1.png)
-
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
